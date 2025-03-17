@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "last-attampt",
+  "name": "oneapi",
   "main": "src/index.ts",
   "compatibility_date": "2025-03-17"
   // "compatibility_flags": [
